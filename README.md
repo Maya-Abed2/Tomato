@@ -19,7 +19,7 @@ A clean, modern, and responsive web application built to deliver an intuitive us
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3, React.js
+* **Frontend:** HTML5, Taliwindcss, React.js
 * **Deployment:** GitHub Pages
 
 ---
